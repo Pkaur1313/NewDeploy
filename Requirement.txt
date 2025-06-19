@@ -1,4 +1,6 @@
 streamlit
-joblib
-pandas  # (or any other library you use)
+pandas
+numpy
 scikit-learn
+matplotlib
+seaborn
